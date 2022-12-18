@@ -8,7 +8,7 @@
 		<version>2.7.6</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mora</groupId>
+	<groupId>com.menescal</groupId>
 	<artifactId>library</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>library</name>
